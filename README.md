@@ -1,2 +1,2 @@
 # ts-axios
-使用Typescript实现axis
+使用Typescript实现axios
